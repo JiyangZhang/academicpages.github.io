@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiyang ZHANG"
+title: "UT ECE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
