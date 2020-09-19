@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jiyang ZHANG"
   avatar           : "profile.png"
-  bio              : "MS/Ph.D. Student in ECE@UT-Austin"
+  bio              : "Ph.D. Student in ECE@UT"
   location         : "UT-Austin"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #
+  googlescholar    : #
   email            : jiyang.zhang@utexas.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
