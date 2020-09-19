@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiyang ZHANG"
 title_separator          : "-"
-name                     : &name "Jiyang ZHANG"
+name                     : &name "UT ECE"
 description              : &description "MS/Ph.D. Student in UT-Austin"
 url                      : https://jiyangzhang.github.io # the base hostname for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
