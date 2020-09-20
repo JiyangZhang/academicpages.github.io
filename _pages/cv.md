@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[cv](http://www.stuartgeiger.com/papers/gnovis-habermas-blogopublic-sphere.pdf)
+[cv](http://https://jiyangzhang.github.io/files/resume.pdf)
