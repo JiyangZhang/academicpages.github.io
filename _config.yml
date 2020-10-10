@@ -204,6 +204,7 @@ defaults:
       comments: true
       share: true
       related: true
+      sitemap: false
   # _pages
   - scope:
       path: ""
@@ -229,6 +230,11 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  - scope:
+      path: "markdown_generator/*"
+    values:
+      sitemap: false
+      
   # _portfolio
   #- scope:
   #    path: ""
