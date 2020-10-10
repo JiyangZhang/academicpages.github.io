@@ -5,5 +5,5 @@ permalink:
 excerpt: 
 authors: "Yifan Nie, Jiyang Zhang, Jian-Yun Nie"
 venue: "Proceedings of the 2019 ACM SIGIR International Conference on Theory of Information Retrieval"
-link: http://rali.iro.umontreal.ca/rali/sites/default/files/publis/p67-nie.pdf
+url: http://rali.iro.umontreal.ca/rali/sites/default/files/publis/p67-nie.pdf
 ---
