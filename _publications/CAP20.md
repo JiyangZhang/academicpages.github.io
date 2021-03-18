@@ -5,5 +5,4 @@ permalink:
 excerpt: 
 authors: "Jiyang Zhang, Sheena Panthaplackel, Pengyu Nie, Jessy Li, Ray Mooney, Milos Gligoric"
 venue: "NeurIPS 2020 Workshop on Computer-Assisted Programming"
-paperurl:
 ---
