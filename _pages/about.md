@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year MS/PhD student in Electrical and Computer
+I am a MS/PhD student in Electrical and Computer
 Engineering at University of Texas at Austin, advised by [Prof. Milos
 Gligoric](http://users.ece.utexas.edu/~gligoric/). I am interested in
 applying Natural Language Processing (NLP) and Machine Learning techniques
